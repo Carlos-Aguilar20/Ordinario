@@ -1,0 +1,30 @@
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\SaranghaeApp.deps.json
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\SaranghaeApp.dll
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\ref\SaranghaeApp.dll
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\SaranghaeApp.pdb
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.AssemblyInfo.cs
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.dll
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\ref\SaranghaeApp.dll
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.pdb
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\SaranghaeApp.deps.json
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\SaranghaeApp.dll
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\ref\SaranghaeApp.dll
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\bin\Debug\netstandard2.0\SaranghaeApp.pdb
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.dll
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\ref\SaranghaeApp.dll
+C:\Users\user\Desktop\Consumo Servicio Web\SaranghaeApp\SaranghaeApp\obj\Debug\netstandard2.0\SaranghaeApp.pdb

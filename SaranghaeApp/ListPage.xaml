@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SaranghaeApp.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <?Pagina secundaria?>
+                <Label Text="Productos" FontSize="25" HorizontalOptions="CenterAndExpand" TextColor="Blue"></Label>
+            <Button x:Name="Mostrar" Text="Mostrar" Clicked="Mostrar_Clicked" FontSize="Title" BackgroundColor="Blue" TextColor="White" Margin="70,0,70,0"></Button>
+            <ListView x:Name="listviewproductos" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                
+                                <Label Text="Id del problema: " FontSize="18" TextColor="Black"></Label>
+                                <Label Text="{Binding  id}" FontSize="16" TextColor="Blue"></Label>
+                                <Label Text="Edificio: " FontSize="18" TextColor="Black" ></Label>
+                                <Label Text="{Binding Edificio}" FontSize="14" TextColor="Blue"></Label>
+                                <Label Text="Salon: " FontSize="18" TextColor="Black"></Label>
+                                <Label Text="{Binding Salon }" FontSize="14"  TextColor="Blue"></Label>                                
+                                 <Label Text="Problema que hay: " FontSize="18" TextColor="Black"></Label>
+                                 <Label Text="{Binding Problema }" FontSize="14" TextColor="Blue"></Label>
+                                 
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

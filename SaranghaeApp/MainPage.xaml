@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    NavigationPage.HasNavigationBar="false"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SaranghaeApp.MainPage">
+
+    <Grid>
+        <Image Source="fondoazul.png" Aspect="AspectFill"></Image>
+        <BoxView Color="#f6ba" Opacity="0.7"></BoxView>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image Grid.Row="0" Source="uac.png" WidthRequest="220" HeightRequest="220" Margin="0,20,0,90"></Image>
+            <StackLayout Grid.Row="1" Padding="15,10">
+                <Label x:Name="labelAct" Text="Proyecto-ordinario" FontSize="Title" HorizontalOptions="CenterAndExpand" TextColor="White"></Label>
+                <Button x:Name="Ingresar" Text="Entrar" BackgroundColor="LightBlue" TextColor="White" FontSize="22"  Margin="50,0,50,0" Clicked="Ingresar_Clicked"> </Button>
+            </StackLayout>
+        </Grid>
+    </Grid>
+
+</ContentPage>
+ 
